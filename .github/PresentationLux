@@ -1,0 +1,341 @@
+---
+marp: true
+theme: default
+---
+
+# Presentation of the Special Limited Partnership (SCSp) in Luxembourg
+
+---
+
+## 1. Introduction to SCSp
+
+The Société en Commandite Spéciale (SCSp), or Special Limited Partnership (SLP), is a flexible and widely used investment vehicle in Luxembourg. It was introduced in 2013 through the implementation of the AIFM Directive (Alternative Investment Fund Managers Directive), aligning Luxembourg’s regulatory framework with European standards for investment funds.
+
+---
+
+### Key Features:
+
+- **Legal Form**: The SCSp is a partnership, not a separate legal entity, and is governed by a limited partnership agreement (LPA).
+- **Partners**:
+  - **General Partner (GP)**: Has unlimited liability and manages the partnership.
+  - **Limited Partners (LPs)**: Have limited liability, contributing capital but not participating in management.
+- **No Minimum Capital Requirement**: Capital structure is flexible and can be defined in the partnership agreement.
+- **Tax Transparency**: The SCSp is generally tax-transparent, meaning it is not taxed at the entity level; instead, income is taxed at the partner level.
+- **Regulatory Flexibility**: It can be established as either a regulated or unregulated entity.
+
+---
+
+## 2. Key Advantages of SCSp
+
+1. **Flexibility**:
+   - No predefined legal framework for governance—entirely customizable under the Limited Partnership Agreement.
+   - Allows for tailor-made arrangements, making it attractive to private equity and venture capital structures.
+
+2. **Tax Benefits**:
+   - Tax-transparent nature avoids corporate-level taxation.
+   - Investors may benefit from double taxation treaties through intermediate structures.
+
+3. **Confidentiality**:
+   - Limited disclosure requirements (e.g., no need to publish the Limited Partnership Agreement).
+   - Only the identity of the General Partner is publicly disclosed.
+
+4. **Ease of Formation**:
+   - Simple and fast incorporation process (no need for a notarial deed).
+   - Can be created in just a few days.
+
+5. **Regulatory Efficiency**:
+   - Suitable for both regulated (under the AIFMD) and unregulated structures.
+   - Appeals to professional investors looking for EU passporting rights.
+
+---
+
+## 3. Why is SCSp Popular for Private Equity Funds?
+
+The SCSp is particularly attractive to private equity and venture capital funds due to its structural alignment with international standards such as the Limited Partnership (LP) used in Anglo-Saxon jurisdictions (e.g., Delaware LP). Key reasons include:
+
+1. **Fundraising Appeal**:
+   - Familiar structure for international investors accustomed to Anglo-Saxon LPs.
+   - Flexible capital commitment and drawdown mechanisms preferred by private equity investors.
+
+2. **Asset Holding and Management**:
+   - Allows the GP to structure distributions and waterfall models effectively.
+   - Supports carried interest arrangements, often used to incentivize fund managers.
+
+3. **EU Passporting Rights**:
+   - When structured as an Alternative Investment Fund (AIF) and managed by an Authorized AIFM, the SCSp can market funds across the EU via passporting.
+
+4. **Risk Mitigation**:
+   - Limited liability for investors ensures that LPs only risk their committed capital.
+
+5. **Exit Flexibility**:
+   - Allows for straightforward dissolution, restructuring, or transfer of ownership in line with market needs.
+
+---
+
+## Regulatory Aspects of SCSp
+
+### A. Supervision
+
+- **Unregulated SCSp**: No direct supervision by Luxembourg’s CSSF (Commission de Surveillance du Secteur Financier) unless it qualifies as an Alternative Investment Fund (AIF) managed by an AIFM.
+- **Regulated SCSp**: If structured as a SIF (Specialised Investment Fund) or SICAR (Société d’Investissement en Capital à Risque), it falls under CSSF supervision.
+
+### B. Fund Regulation Options for SCSp
+
+1. **Unregulated SCSp**:
+   - Does not require prior approval by CSSF.
+   - Often used by professional investors under private placement regimes.
+   - Must comply with AIFMD if qualifying as an AIF.
+
+2. **Regulated SCSp**:
+   - Can be set up as:
+     - **SIF (Specialised Investment Fund)**: Flexible investment rules; requires a minimum investment of €125,000.
+     - **SICAR (Investment Company in Risk Capital)**: Focused on private equity and venture capital; must invest in risk-bearing assets.
+
+3. **AIFMD Compliance**:
+   - If structured as an AIF and managed by an authorized AIFM, it benefits from EU passporting rights for marketing across the EU.
+   - May impose requirements such as risk management, valuation, reporting, and depositary arrangements.
+
+### C. Tax and Accounting Aspects
+
+- **Tax Transparency**:
+  - SCSp is tax transparent, meaning no entity-level tax. Profits are taxed at the level of the partners.
+  - No corporate income tax, net wealth tax, or municipal tax.
+- **VAT**: Exempt from VAT on management fees for investment funds.
+- **Accounting Rules**:
+  - No obligation to publish financial statements.
+  - Flexible reporting requirements, mainly depending on whether it is regulated or unregulated.
+
+---
+
+## Comparison: SCSp vs SCA
+
+### A. Legal Form and Structure
+
+| Aspect                | SCSp (Special Limited Partnership) | SCA (Partnership Limited by Shares) |
+|-----------------------|-------------------------------------|--------------------------------------|
+| Legal Form           | Contract-based partnership without legal personality. | Corporate entity with legal personality. |
+| Management           | Managed by a General Partner (GP). | Managed by a Board of Directors or a Manager. |
+| Liability            | GP has unlimited liability; LPs have limited liability. | GP has unlimited liability; shareholders have limited liability. |
+| Governance Flexibility | Highly customizable governance via LPA. | Subject to corporate law rules—more formalized. |
+| Legal Personality    | No legal personality—acts through GP. | Has legal personality—acts independently. |
+
+### B. Regulatory and Reporting
+
+| Aspect                | SCSp                               | SCA                                 |
+|-----------------------|-------------------------------------|--------------------------------------|
+| Regulatory Oversight | Only regulated when structured as a SIF/SICAR or AIF. | Always regulated under company law rules. |
+| Disclosure           | Limited disclosure (only GP details made public). | More transparent with public filings. |
+| Financial Reporting  | Flexible—can define requirements in the partnership agreement. | Annual accounts must be audited and published. |
+
+### C. Tax Treatment
+
+| Aspect                | SCSp                               | SCA                                 |
+|-----------------------|-------------------------------------|--------------------------------------|
+| Tax Status            | Tax transparent—profits taxed at partner level. | Tax opaque—subject to corporate taxes. |
+| VAT                   | Management services are VAT exempt. | Generally subject to VAT obligations. |
+| Wealth Tax           | No wealth tax.                     | Subject to net wealth tax in Luxembourg. |
+
+### D. Suitability and Use Cases
+
+| Aspect                | SCSp                               | SCA                                 |
+|-----------------------|-------------------------------------|--------------------------------------|
+| Flexibility           | Extremely flexible and widely used for private equity, venture capital, and real estate funds. | More suitable for publicly listed funds or investment vehicles requiring formal governance. |
+| Investor Profile      | Appeals to institutional investors or family offices. | Appeals to retail investors or listed funds. |
+| Cross-Border Use      | Ideal for international investors due to its familiar LP structure. | Less common for international use; suits domestic investors. |
+
+---
+
+## Practical Applications of SCSp and SCA in Luxembourg
+
+### 1. SCSp (Société en Commandite Spéciale)
+
+#### Key Features Recap:
+
+- Contractual Flexibility
+- Tax Transparency
+- Limited Regulatory Burden
+
+#### A. Examples of Practical Applications
+
+1. **Private Equity Funds (Leveraged Buyouts - LBOs)**
+   - **Scenario**: A private equity firm raises €500 million to acquire and restructure underperforming companies.
+   - **Why SCSp?**
+     - Allows capital commitments and drawdowns in stages to match deal timelines.
+     - Flexible profit distribution and waterfall mechanisms for performance-based fees.
+     - Tax transparency avoids corporate-level taxation, reducing tax leakage on distributions.
+     - Simplified governance for limited partners (LPs).
+
+2. **Venture Capital Funds (Startup Financing)**
+   - **Scenario**: A tech-focused venture capital fund pools €200 million from institutional investors.
+   - **Why SCSp?**
+     - Investor-friendly structure resembling Anglo-Saxon LPs, making it familiar to U.S. and UK investors.
+     - Simplifies exit strategies and distribution of carried interest to General Partners (GPs).
+     - Works well with co-investment vehicles for larger financing rounds.
+
+3. **Real Estate Investment Structures (Property Development)**
+   - **Scenario**: An SCSp is set up to acquire and develop luxury residential properties across Europe.
+   - **Why SCSp?**
+     - Ideal for joint ventures where partners can define governance and profit-sharing rules in the LPA.
+     - Flexibility for capital contributions in cash or in-kind assets (e.g., properties).
+     - Can be structured as a SIF for investors requiring regulatory oversight.
+
+4. **Debt Funds (Direct Lending & Distressed Debt)**
+   - **Scenario**: A debt fund raises €300 million to provide loans to SMEs or acquire distressed debt portfolios.
+   - **Why SCSp?**
+     - No requirement for corporate-level taxes, ensuring better returns for investors.
+     - Easily accommodates subscription credit facilities and flexible borrowing mechanisms.
+     - AIFMD compliance allows cross-border marketing in the EU.
+
+5. **Infrastructure Funds (Renewable Energy Projects)**
+   - **Scenario**: An infrastructure fund finances renewable energy projects like wind farms.
+   - **Why SCSp?**
+     - Supports long-term capital commitments and staged investments.
+     - Flexible structuring for performance incentives and profit-sharing.
+     - Ideal for managing co-investments with institutional investors.
+
+6. **Family Office Structures (Wealth Management)**
+   - **Scenario**: A family office uses an SCSp to manage diversified assets including private equity, real estate, and art collections.
+   - **Why SCSp?**
+     - Confidentiality, as only the General Partner’s name is disclosed.
+     - Customizable governance rules to meet the specific needs of family members.
+     - Tax transparency simplifies wealth management across jurisdictions.
+
+---
+
+### 2. SCA (Société en Commandite par Actions)
+
+#### Key Features Recap:
+
+- Corporate Legal Entity
+- Stricter Governance and Reporting Requirements
+- Tax Opaque Structure
+
+#### A. Examples of Practical Applications
+
+1. **Listed Investment Funds (Public Market Access)**
+   - **Scenario**: A real estate investment fund seeks public listing on the Luxembourg Stock Exchange to attract retail investors.
+   - **Why SCA?**
+     - Suitable for public listings, as it has a corporate structure with shares that can be traded.
+     - Supports shareholder rights and voting structures similar to corporations.
+     - Compliance with corporate governance rules builds investor confidence.
+
+2. **REIT-Like Structures (Real Estate Investment Trusts)**
+   - **Scenario**: A fund pools €1 billion to manage a portfolio of commercial properties across Europe.
+   - **Why SCA?**
+     - Corporate personality allows the fund to directly hold real estate assets.
+     - Share issuance and listing options make it easier to raise capital from the public.
+     - Beneficial for investors who prefer dividends and capital gains taxation over direct property ownership.
+
+3. **Holding Companies for Private Equity Groups (Portfolio Management)**
+   - **Scenario**: A holding structure is created to manage multiple private equity investments under a single corporate umbrella.
+   - **Why SCA?**
+     - Formalized governance ensures transparency and investor protection for larger institutional investors.
+     - Shares can be pledged as collateral for financing acquisitions.
+     - Allows for IPO exits if investors want to list the structure later.
+
+4. **Structured Products and Securitization Vehicles (Financial Instruments)**
+   - **Scenario**: A structured finance vehicle issues bonds linked to a portfolio of loans and securities.
+   - **Why SCA?**
+     - Legal personality allows it to issue debt instruments directly.
+     - Corporate governance supports board-level oversight to meet regulatory requirements.
+     - Appealing to institutional investors looking for transparency and compliance with EU law.
+
+5. **Large Family-Owned Businesses (Business Continuity)**
+   - **Scenario**: A wealthy family sets up an SCA to manage multi-generational business assets and streamline succession planning.
+   - **Why SCA?**
+     - Provides continuity and structure as a corporate entity.
+     - Formalized governance prevents disputes among family members.
+     - Shares can be transferred or sold to future generations without disturbing operations.
+
+---
+
+## 3. Summary Table of Use Cases
+
+| Application                      | SCSp                                                                 | SCA                                                                 |
+|----------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|
+| Private Equity & Venture Capital | Ideal for flexible fund structures and investor preferences.         | Less common—used mainly for larger, listed funds.                  |
+| Real Estate Investments         | Flexible partnerships for property development.                       | Suitable for publicly listed REIT-like structures.                  |
+| Debt and Infrastructure Funds    | Allows flexible debt financing and long-term projects.                | Supports securitization and structured finance.                    |
+| Family Office Wealth Management  | Privacy and governance tailored to family needs.                      | More formal corporate structure for legacy planning.                |
+| Public Market Access             | Not suitable for public listing.                                        | Designed for IPO-ready funds or investment firms.                   |
+| Holding Companies and Securitization | Limited use—better suited for private structures.                    | Ideal for listed or large-scale investment groups.                  |
+
+---
+
+## When Does an SCSp Qualify as an AIF (Alternative Investment Fund)?
+
+An SCSp (Société en Commandite Spéciale) qualifies as an Alternative Investment Fund (AIF) under the AIFMD (Alternative Investment Fund Managers Directive) if it meets the following criteria defined in Article 1(39) of the Law of 12 July 2013 implementing the AIFMD in Luxembourg:
+
+### 1. Key Criteria for Qualifying as an AIF
+
+1. **Collective Investment Undertaking (CIU)**
+   - The SCSp must raise capital from multiple investors.
+   - It must pool investors’ funds for the purpose of making investments based on a defined strategy.
+   - Investors should expect to benefit from profits or returns based on the fund's performance.
+
+2. **No General Commercial or Industrial Purpose**
+   - The SCSp cannot engage in operational business activities such as manufacturing or trading goods or services.
+   - Instead, it must focus on investment activities (e.g., acquiring, managing, and disposing of assets).
+
+3. **Capital Raised from Investors**
+   - The SCSp must raise external capital from multiple investors, meaning the capital does not originate solely from the General Partner (GP).
+   - Investors contribute funds with the expectation of returns based on the success of the investments managed by the SCSp.
+
+4. **Managed as a Portfolio**
+   - The SCSp must manage diversified portfolios of assets rather than operating a single asset or project.
+   - It should follow a defined investment policy that determines how assets are acquired, managed, and disposed of.
+
+### 2. Exceptions: When Does an SCSp NOT Qualify as an AIF?
+
+An SCSp does not qualify as an AIF if:
+
+1. **Single Investor Structures**
+   - If the SCSp is established for a single investor, it does not meet the AIF criteria since it lacks the element of capital pooling.
+
+2. **Joint Ventures**
+   - If the SCSp is structured as a joint venture where investors actively manage their own contributions, it does not qualify as an AIF.
+
+3. **Holding Companies**
+   - If the SCSp acts as a holding company for controlling other companies and not as an investment fund, it is excluded from the AIF definition.
+
+4. **Family Offices**
+   - Structures used for managing family wealth without external investors are not considered AIFs.
+
+5. **Operating Companies**
+   - If the SCSp runs an industrial or commercial business, it is not an AIF.
+
+### 3. Regulatory Implications for an SCSp Classified as an AIF
+
+1. **If the SCSp is an AIF, it must appoint an AIFM (Alternative Investment Fund Manager)**:
+   - Authorized AIFM for funds exceeding €100 million (with leverage) or €500 million (without leverage).
+   - Registered AIFM for smaller funds below these thresholds.
+
+2. **Compliance with AIFMD Requirements**:
+   - **Risk Management**: Implement systems to monitor and control risks.
+   - **Valuation**: Independent valuation of assets must be performed.
+   - **Depositary**: Must appoint a depositary (custodian) for safekeeping of assets and cash flow monitoring.
+   - **Transparency**: Provide investors with periodic reports, including NAV, risk profiles, and leverage details.
+   - **Marketing Rules**: Access to the EU Passport for cross-border fundraising and marketing.
+
+3. **Regulatory Supervision by CSSF**:
+   - A regulated SCSp (e.g., SIF or SICAR) is subject to oversight by the CSSF.
+   - An unregulated SCSp is indirectly regulated if it qualifies as an AIF under the AIFMD and appoints an AIFM.
+
+### 4. Practical Examples
+
+1. **Private Equity Fund (AIF)**
+   - An SCSp pools capital from institutional investors to acquire stakes in private companies.
+   - Managed by an authorized AIFM, it can raise funds across the EU under the AIFMD passporting regime.
+
+2. **Venture Capital Fund (Not an AIF)**
+   - A venture capital SCSp with a single investor or a family office acting as the sole source of funding does not qualify as an AIF.
+
+3. **Real Estate Development Fund (AIF)**
+   - An SCSp structured to invest in multiple properties and development projects with external investors qualifies as an AIF.
+
+4. **Infrastructure Joint Venture (Not an AIF)**
+   - An SCSp owned by two infrastructure companies to co-finance a project, where both actively manage operations, does not qualify as an AIF.
+
+---
+
+Cette présentation couvre les aspects clés de la SCSp en Luxembourg, ses avantages, ses applications pratiques, et ses implications réglementaires. Vous pouvez ajuster les diapositives selon vos besoins spécifiques.
